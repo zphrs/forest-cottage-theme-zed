@@ -4,7 +4,7 @@
   "author": "Zephiris Evergreen <z@zephiris.dev>",
   "themes": [
     {
-      "name": "Classy Dark",
+      "name": "Forest Cottage - Classy Dark",
       "appearance": "dark",
       "style": {
         "border": "#345348FF",
@@ -419,7 +419,7 @@
       }
     },
     {
-      "name": "Classy Light",
+      "name": "Forest Cottage - Classy Light",
       "appearance": "light",
       "style": {
         "border": "#345348FF",
